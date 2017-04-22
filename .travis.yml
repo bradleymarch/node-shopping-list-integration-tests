@@ -1,9 +1,0 @@
-language: node_js
-node_js: node
-deploy:
-  provider: heroku
-  api_key:
-    secure: S9TVM4rVynv5JYzqwkIyhT3MgCdD+U9fl55f/OFg68+obAiO77o8Jjo60glnm0lF/697zIBJuCnOabSVMmDLP032o8Cdikt3ZdS6vI80qLBmUyeIA1rKQfUWthR8HiW/3tbduIrLSBP32pcIPquOxyNIC/CWrpz6Vk0Lt7AO1C1purbWCvLOW0lJVRWtbo1X7nCP9icQBVq1aBM8gVDxwrZK5xPawiRqCWtLQOwTet4cpuCUacJmZeusZNMWsG69F/pYxpWl2r71AG1wxPAxdGfR4eGLYB05QZv3NIRjRmlpgZRFnnbJpU7T1KxgAGskzM5QzWCM+veVlpjrUHUO8vsVJrCayZMMJ8/JBYCzfthXhcV7qwF8TLauKl5PqU1is7QgPcoxoOSRkoNtQnZZNUrqRI2PjHFm/Rjf6p8yQnBl6zen47JDMak3rqRYzLZVK/XEPIOmcsA5LQjLiMaU17J/pMzqhZ0B9w16/ioCWFEeuUSZolJBeWzG8+nAr9dK+oT6hLByBnQszbdsc4R6gulkzmNXFkhQbvwvtef27R9TGM31aS1n/vdmfTrfrV4rUgl4uPSnOjwD8ML630EAOAB+SEIy+Vf6pR1wqBXvnTIuT4H0qgKv+LPSomGyc1GpwfCYUPygIWzyj7zUVbFkaiJvm8v8naLEzB9P/husIX4=
-  app: node-shopping-list-integration-tests
-  on:
-    repo: bradleymarch/node-shopping-list-integration-tests

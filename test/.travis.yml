@@ -1,6 +1,5 @@
 language: node_js
- node_js: node
-   deploy:
-      app: serene-peak-22658
+node_js: node
+deploy:app: serene-peak-22658
    
       
